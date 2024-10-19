@@ -1,7 +1,7 @@
 module.exports = {
     host: 'localhost',
-    user: 'root',
-    password: 'root@123',
-    database: 'ecommerce_db',
+    user: 'user',
+    password: 'password',
+    database: 'db_name',
     port: 3306,
 };
